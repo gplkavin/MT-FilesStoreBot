@@ -30,30 +30,30 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @gpl_kavin
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @gpl_kavin
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support:** [My YouTube Channel](https://www.youtube.com/channel/UCMdjyyOY-aa5SaV1iKK_ofQ)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @kingmasterchat
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Ithunammacinema](https://t.me/ithunammacinema)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @gpl_kavin
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://t.me/aboutgpl)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @gpl_kavin
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @kingmasterchat
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [My YouTube Channel](https://www.youtube.com/channel/UCMdjyyOY-aa5SaV1iKK_ofQ)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Ithunammacinema](https://t.me/ithunammacinema)
 
-Donate Now (coming soon)
+Donate Now (@gpl_kavin)
 """
 	HOME_TEXT = """
 **👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **MT FileStoreBot**.
