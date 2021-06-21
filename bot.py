@@ -49,8 +49,8 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/Mo_Tech_Group"),
-                        InlineKeyboardButton("🔊Channel", url="https://t.me/Mo_Tech_YT")
+                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/kingmasterchat"),
+                        InlineKeyboardButton("🔊Channel", url="https://t.me/ithunammacinema")
                     ],
                     [
                         InlineKeyboardButton("💻 Tutorial Video 💻", url="https://youtu.be/RPs9vz_neXg")
@@ -102,7 +102,7 @@ async def main(bot: Client, message: Message):
             else:
                 pass
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/Mo_Tech_Group)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/kingmasterchat)",
                                      disable_web_page_preview=True)
             return
         if Config.OTHER_USERS_CAN_SAVE_FILE is False:
@@ -120,8 +120,8 @@ async def main(bot: Client, message: Message):
                 parse_mode="Markdown",
                 reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton("♻️Open Link♻️", url=share_link)],
-                     [InlineKeyboardButton("🔊Channel", url="https://t.me/Mo_Tech_Yt"),
-                      InlineKeyboardButton("👨‍💼Group", url="https://t.me/Mo_Tech_Group")]]
+                     [InlineKeyboardButton("🔊Channel", url="https://t.me/ithunammacinema"),
+                      InlineKeyboardButton("👨‍💼Group", url="https://t.me/kingmasterchat")]]
                 ),
                 disable_web_page_preview=True
             )
@@ -305,7 +305,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/MoTechYT/MT-FilesStoreBot")
+                                             url="https://t.me/gpl_kavin")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -323,7 +323,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/MoTechYT/MT-FilesStoreBot")
+                                             url="https://t.me/gpl_kavin")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -340,8 +340,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/Mo_Tech_Group"),
-                        InlineKeyboardButton("🔊Channel", url="https://t.me/Mo_Tech_YT")
+                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/kingmasterchat"),
+                        InlineKeyboardButton("🔊Channel", url="https://t.me/ithunammacinema")
                     ],
                     [
                         InlineKeyboardButton("💻 Tutorial Video 💻", url="https://youtu.be/RPs9vz_neXg")
@@ -360,7 +360,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(int(Config.UPDATES_CHANNEL), cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/kingmasterchat).",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -395,8 +395,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/Mo_Tech_Group"),
-                        InlineKeyboardButton("🔊Channel", url="https://t.me/Mo_Tech_YT")
+                        InlineKeyboardButton("👩‍👩‍👦‍👦Group", url="https://t.me/kingmasterchat"),
+                        InlineKeyboardButton("🔊Channel", url="https://t.me/ithunammacinema")
                     ],
                     [
                         InlineKeyboardButton("💻 Tutorial Video 💻", url="https://youtu.be/RPs9vz_neXg")
