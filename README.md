@@ -3,13 +3,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MoTechYT/MT-FilesStoreBot/stargazers">
+  <a href="https://github.com/gplkavin/MT-FilesStoreBot/stargazers">
     <img src="https://img.shields.io/github/stars/MoTechYT/MT-FilesStoreBot?style=social">
 
   </a>
   
-  <a href="https://github.com/MoTechYT/MT-FilesStoreBot/fork">
-    <img src="https://img.shields.io/github/forks/MoTechYT/MT-FilesStoreBot?label=Fork&style=social">
+  <a href="https://github.com/gplkavin/MT-FilesStoreBot/fork">
+    <img src="https://img.shields.io/github/forks/gplkavin/MT-FilesStoreBot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -23,7 +23,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/MT-FilesStoreBot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/gplkavin/MT-FilesStoreBot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
